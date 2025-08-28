@@ -1,0 +1,30 @@
+[33mcommit e9aac7d1d90f68e838ed91c6138050b88d932549[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: Brian Scott Reynolds <brian_scott_reynolds@yahoo.com>
+Date:   Wed Aug 27 20:06:36 2025 -0700
+
+    Remove exposed service account keys
+
+[33mcommit 370852d9837536c6996bcfd582fcb55e63524def[m
+Merge: 9955f50 a19a657
+Author: Brian Scott Reynolds <brian_scott_reynolds@yahoo.com>
+Date:   Wed Aug 27 19:59:58 2025 -0700
+
+    Merge branch 'main' of https://github.com/I-M-B-S-R/talqrma-v8
+
+[33mcommit 9955f506574eeb6e877b28642080f00d419412cd[m
+Author: Brian Scott Reynolds <brian_scott_reynolds@yahoo.com>
+Date:   Wed Aug 27 19:57:38 2025 -0700
+
+    Clean up folder structure and add workflow
+
+[33mcommit a19a65794aab177f2499cacf39e2858c24ddfc43[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Brian Scott Reynolds <brian_scott_reynolds@yahoo.com>
+Date:   Wed Aug 27 11:03:52 2025 -0700
+
+    Add final deployment workflow
+
+[33mcommit 8de8ea9301980ae6cdb3c01e0ab90ebaf317de4d[m
+Author: Brian Scott Reynolds <brian_scott_reynolds@yahoo.com>
+Date:   Tue Aug 26 12:28:04 2025 -0700
+
+    Initial commit: talqrma v8 project - React/Vite app with Firebase Firestore (rules, indexes, config), HomePage, and .gitignore (clean version without large files)
