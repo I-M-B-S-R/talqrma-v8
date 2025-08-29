@@ -1,6 +1,6 @@
 {
   "hosting": {
-    "site": "talqrma-v8-7879b",
+    "site": "talqrma-v8-cb12a",
     "public": "public",
     "ignore": [
       "firebase.json",
